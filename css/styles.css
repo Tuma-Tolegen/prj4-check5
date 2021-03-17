@@ -2,6 +2,9 @@
 .myheader{
 	background-size: cover;
 }
+.navbar{
+	background-color: #0C53AD;
+}
 .container {
     background-color: aliceblue;
     color: black;
